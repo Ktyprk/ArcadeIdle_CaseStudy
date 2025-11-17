@@ -1,0 +1,2 @@
+C:\Users\user\Documents\Github\UnityProjects\ArcadeIdle_CaseStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\user\Documents\Github\UnityProjects\ArcadeIdle_CaseStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

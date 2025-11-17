@@ -2312,7 +2312,7 @@ MonoBehaviour:
   silhouetteMaterial: {fileID: 2100000, guid: 19a4fa383cb775c49a95ad3b146add3f, type: 2}
   buildAnimationTime: 0.5
   dropAnimYOffset: 2
-  completionEffectPrefab: {fileID: 0}
+  completionEffectPrefab: {fileID: 5173360091779552397, guid: 1c2753ac75ffb074da79c3cdef968012, type: 3}
 --- !u!65 &1289096154
 BoxCollider:
   m_ObjectHideFlags: 0
